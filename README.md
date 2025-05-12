@@ -54,7 +54,7 @@ Matplotlib/seaborn plots: Add custom charts that Power BI can't create natively.
 ![Screenshot (27)](https://github.com/user-attachments/assets/73970cf7-6ded-469a-9083-63b21a60f08f)
 
 6 . How to use 
-Clone the repository: git clone 
+Clone the repository: git clone https://github.com/Archanabhorga/Power-BI-project-using-python-Dashboards-
 
 Explore and interact with the dashboard using slicers and filters.
 
