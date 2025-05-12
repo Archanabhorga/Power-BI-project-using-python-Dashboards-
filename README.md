@@ -28,6 +28,8 @@ Load and clean the data.
 Perform time series forecasting.
 
 Output forecasted values as a DataFrame for Power BI.
+
+
 📊 3. Using Python in Power BI
 🧩 Enable Python scripting:
 Go to File > Options > Python scripting in Power BI Desktop.
@@ -42,6 +44,8 @@ Drag your data fields into the Values section.
 Power BI will pass the data to your Python script.
 
 Paste your Python script (like the one above) into the editor.
+
+
 🧠 4. Add More Features (Optional)
 Machine learning: Use scikit-learn for customer segmentation or churn prediction.
 
