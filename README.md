@@ -53,3 +53,16 @@ Matplotlib/seaborn plots: Add custom charts that Power BI can't create natively.
 5 . SAMPLE VISUALS 
 ![Screenshot (27)](https://github.com/user-attachments/assets/73970cf7-6ded-469a-9083-63b21a60f08f)
 
+6 . How to use 
+Clone the repository: git clone 
+
+Explore and interact with the dashboard using slicers and filters.
+
+Trend lines for monthly and daily sales
+
+KPI cards for quick business checks
+
+Interactive charts and graphs
+
+Responsive slicers and tooltips for detailed insights
+
